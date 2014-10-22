@@ -1,5 +1,5 @@
 # frontendServer
 
-frontendServer is a server that increase frontend performance.
+nothing to say now.
 
-# in progress,please waiting
+# in progress,just waiting
