@@ -26,7 +26,6 @@ map.forEach(function(m){
 
 app.use(function(req,res,next){
     console.log(res.statusCode)
-   res.statusCode = 404;
     console.log(req.url);
     next();
 }).use(function(req,res){

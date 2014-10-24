@@ -8,7 +8,9 @@
   },
     "dependencies":{
         "connect":"~3.3.0",
-        "serve-favicon":"~2.1.6"
+        "serve-favicon":"~2.1.6",
+        "dot":"~1.0.1",
+        "async":"~0.9.0"
     },
     "devDependencies":{
         "grunt":"~0.4.5"
