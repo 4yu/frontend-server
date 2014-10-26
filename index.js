@@ -16,6 +16,7 @@ app.use(function(req,res,next){
     if(info.pathname.indexOf("/",info.pathname.length-1) !== -1){
         req.url = info.pathname+"index.html"+info.search;
     }
+    res.setHeader("content-type","text/html");
     next();
 });
 
@@ -25,12 +26,12 @@ map.forEach(function(m){
 });
 
 app.use(function(req,res,next){
-    console.log(res.statusCode)
+    //console.log(req.headers)
     console.log(req.url);
     next();
 }).use(function(req,res){
     res.end();
 });
 console.log(app.stack)
-http.createServer(app).listen(8080);
+http.createServer(app).listen(80);
 

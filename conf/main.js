@@ -7,13 +7,11 @@ module.exports = {
         "/html": {enable: true, type: 1,process:"bigpipe"}//其他html文件，bigpipe？
     },
     "/combo": {//这里的参数名称，要求与传入的名称一样，参数模板格式，dot
-        "/health1": {dataSource:[
-            {name: "userData", url: "http://show.qq.com/cgi-bin/getUser", method: "post",
-                param: "omode=3&uin={{=it.uin}}"},
-            {name: "profileData",url: "http://show.qq.com/cgi-bin/getProfile", method: "post",
-                param: "omode=3&uin={{=it.uin}}"},
-            {name:"getUser",url:"http://client.show.qq.com/cgi-bin/qqshow_client_showinfo?g_tk=1683581383&omode=4&uin=445671&touin=445671&cmd=10413",
-            param:""}
+        "/health1": {dataTmpl:"{{{=it.data}}}",dataSource:[
+            {name: "userData",method:"post",url:"http://client.show.qq.com/cgi-bin/qqshow_client_historyshow_get",
+                param:"g_tk={{=it.g_tk}}&omode={{=it.omode}}&dstuin={{=it.dstuin}}&pno={{=it.pno}}&pnum={{=it.pnum}}&status={{=it.status}}&styleType={{=it.styleType}}&queryType={{=it.queryType}}"}
+            ,{name:"getUser",url:"http://client.show.qq.com/cgi-bin/qqshow_client_historyshow_get",
+                param:"g_tk={{=it.g_tk}}&omode={{=it.omode}}&dstuin={{=it.dstuin}}&pno={{=it.pno}}&pnum={{=it.pnum}}&status={{=it.status}}&styleType={{=it.styleType}}&queryType={{=it.queryType}}"}
         ]}
     }
 };
