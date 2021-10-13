@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T08:43:16.263Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="AbQPAiUG6QKrgnubiWMM" version="15.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-13T08:53:30.321Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="sIao-MuFBmNvIprfdToH" version="15.1.2" type="github" pages="5">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1038" dy="578" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -317,7 +317,43 @@
           <mxGeometry x="335" y="255" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="BtBNwThaNSUI2RM6OBSI-6" value="逻辑&lt;br&gt;编排引擎" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFCC99;" vertex="1" parent="BtBNwThaNSUI2RM6OBSI-1">
-          <mxGeometry x="360" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="360" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BtBNwThaNSUI2RM6OBSI-7" value="原子级&lt;br&gt;数据源" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFCC99;" vertex="1" parent="BtBNwThaNSUI2RM6OBSI-1">
+          <mxGeometry x="430" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BtBNwThaNSUI2RM6OBSI-8" value="数据编排" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CCFF99;" vertex="1" parent="BtBNwThaNSUI2RM6OBSI-1">
+          <mxGeometry x="360" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BtBNwThaNSUI2RM6OBSI-9" value="数据推送" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CCFF99;" vertex="1" parent="BtBNwThaNSUI2RM6OBSI-1">
+          <mxGeometry x="430" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BtBNwThaNSUI2RM6OBSI-10" value="数据下载" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CCFF99;" vertex="1" parent="BtBNwThaNSUI2RM6OBSI-1">
+          <mxGeometry x="360" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BtBNwThaNSUI2RM6OBSI-11" value="UI&lt;br&gt;编排引擎" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFCC99;" vertex="1" parent="BtBNwThaNSUI2RM6OBSI-1">
+          <mxGeometry x="354" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BtBNwThaNSUI2RM6OBSI-12" value="权限&lt;br&gt;分级控制" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFCC99;" vertex="1" parent="BtBNwThaNSUI2RM6OBSI-1">
+          <mxGeometry x="430" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BtBNwThaNSUI2RM6OBSI-13" value="数据沙箱" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFCC99;" vertex="1" parent="BtBNwThaNSUI2RM6OBSI-1">
+          <mxGeometry x="354" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BtBNwThaNSUI2RM6OBSI-14" value="运行时沙箱" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFCC99;" vertex="1" parent="BtBNwThaNSUI2RM6OBSI-1">
+          <mxGeometry x="430" y="160" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BtBNwThaNSUI2RM6OBSI-16" value="视图编排" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CCFF99;" vertex="1" parent="BtBNwThaNSUI2RM6OBSI-1">
+          <mxGeometry x="320" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BtBNwThaNSUI2RM6OBSI-17" value="组件工厂" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CCFF99;" vertex="1" parent="BtBNwThaNSUI2RM6OBSI-1">
+          <mxGeometry x="385" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BtBNwThaNSUI2RM6OBSI-18" value="模板工厂" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CCFF99;" vertex="1" parent="BtBNwThaNSUI2RM6OBSI-1">
+          <mxGeometry x="450" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BtBNwThaNSUI2RM6OBSI-19" value="接口定制" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CCFF99;" vertex="1" parent="BtBNwThaNSUI2RM6OBSI-1">
+          <mxGeometry x="430" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
