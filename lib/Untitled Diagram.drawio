@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T12:11:00.343Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="F_JHqmkew2ABOOfaNUoF" version="15.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-10-14T12:14:48.505Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="iVzs-DW65TACTsD55Lb6" version="15.1.2" type="github" pages="6">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1038" dy="578" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -434,6 +434,18 @@
         </mxCell>
         <mxCell id="NIMpDLOdlwNDC7Y6xW4y-17" value="&lt;span&gt;统一存储服务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#7EA6E0;" vertex="1" parent="lhM6CGJn772H5iblu0Oy-1">
           <mxGeometry x="414" y="287" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NIMpDLOdlwNDC7Y6xW4y-19" value="原子接口--图形节点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#7EA6E0;" vertex="1" parent="lhM6CGJn772H5iblu0Oy-1">
+          <mxGeometry x="460" y="87" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NIMpDLOdlwNDC7Y6xW4y-20" value="数据编排编辑器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#7EA6E0;" vertex="1" parent="lhM6CGJn772H5iblu0Oy-1">
+          <mxGeometry x="590" y="87" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NIMpDLOdlwNDC7Y6xW4y-21" value="数据计划管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#7EA6E0;" vertex="1" parent="lhM6CGJn772H5iblu0Oy-1">
+          <mxGeometry x="120" y="87" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NIMpDLOdlwNDC7Y6xW4y-22" value="视图编排编辑器" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;fillColor=#EDEDED;fontColor=#CCCCCC;" vertex="1" parent="lhM6CGJn772H5iblu0Oy-1">
+          <mxGeometry x="260" y="87" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
