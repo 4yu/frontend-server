@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T08:55:03.424Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="Isxi_GpOJ2FIWwAMRdft" version="15.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-14T09:40:02.975Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="8Y8cHOW9jtPmLIj24ljx" version="15.1.2" type="github" pages="6">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1038" dy="578" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zWIU-9xgIBPjnqL-WLnX" name="Page-2">
-    <mxGraphModel dx="1399" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qYJ6D7o3Md8dHmC-g8wH-0" />
         <mxCell id="qYJ6D7o3Md8dHmC-g8wH-1" parent="qYJ6D7o3Md8dHmC-g8wH-0" />
@@ -248,7 +248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XSh3mhu6vq3PXRAtV8lQ" name="单据提交">
-    <mxGraphModel dx="1399" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HA58Zsw3i5T2GJlZ5nxW-0" />
         <mxCell id="HA58Zsw3i5T2GJlZ5nxW-1" parent="HA58Zsw3i5T2GJlZ5nxW-0" />
@@ -263,42 +263,6 @@
       <root>
         <mxCell id="VpgmylTxQIesL9wzl0ou-0" />
         <mxCell id="VpgmylTxQIesL9wzl0ou-1" parent="VpgmylTxQIesL9wzl0ou-0" />
-        <mxCell id="VpgmylTxQIesL9wzl0ou-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="VpgmylTxQIesL9wzl0ou-1" source="VpgmylTxQIesL9wzl0ou-4" target="VpgmylTxQIesL9wzl0ou-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VpgmylTxQIesL9wzl0ou-4" value="星图WEB" style="rounded=0;whiteSpace=wrap;html=1;" parent="VpgmylTxQIesL9wzl0ou-1" vertex="1">
-          <mxGeometry x="70" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VpgmylTxQIesL9wzl0ou-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="VpgmylTxQIesL9wzl0ou-1" source="VpgmylTxQIesL9wzl0ou-5" target="VpgmylTxQIesL9wzl0ou-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VpgmylTxQIesL9wzl0ou-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="VpgmylTxQIesL9wzl0ou-1" source="VpgmylTxQIesL9wzl0ou-5" target="VpgmylTxQIesL9wzl0ou-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VpgmylTxQIesL9wzl0ou-5" value="nodejs服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="VpgmylTxQIesL9wzl0ou-1" vertex="1">
-          <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VpgmylTxQIesL9wzl0ou-7" value="mongodb" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="VpgmylTxQIesL9wzl0ou-1" vertex="1">
-          <mxGeometry x="490" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VpgmylTxQIesL9wzl0ou-10" value="nodered接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="VpgmylTxQIesL9wzl0ou-1" vertex="1">
-          <mxGeometry x="490" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VpgmylTxQIesL9wzl0ou-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="VpgmylTxQIesL9wzl0ou-1" source="VpgmylTxQIesL9wzl0ou-14" target="VpgmylTxQIesL9wzl0ou-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VpgmylTxQIesL9wzl0ou-14" value="nodered" style="rounded=0;whiteSpace=wrap;html=1;" parent="VpgmylTxQIesL9wzl0ou-1" vertex="1">
-          <mxGeometry x="70" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VpgmylTxQIesL9wzl0ou-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="VpgmylTxQIesL9wzl0ou-1" source="VpgmylTxQIesL9wzl0ou-17" target="VpgmylTxQIesL9wzl0ou-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VpgmylTxQIesL9wzl0ou-17" value="nodejs服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="VpgmylTxQIesL9wzl0ou-1" vertex="1">
-          <mxGeometry x="270" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VpgmylTxQIesL9wzl0ou-19" value="后台接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="VpgmylTxQIesL9wzl0ou-1" vertex="1">
-          <mxGeometry x="500" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -363,6 +327,23 @@
         </mxCell>
         <mxCell id="BtBNwThaNSUI2RM6OBSI-22" value="IDC克隆" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CCFF99;" vertex="1" parent="BtBNwThaNSUI2RM6OBSI-1">
           <mxGeometry x="320" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RWJv8Ij1Ro77DHGkxZfo" name="星图">
+    <mxGraphModel dx="1038" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="lhM6CGJn772H5iblu0Oy-0" />
+        <mxCell id="lhM6CGJn772H5iblu0Oy-1" parent="lhM6CGJn772H5iblu0Oy-0" />
+        <mxCell id="pD75wT1rnBEX5pPgh3ki-0" value="node-red" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;strokeColor=#CCE5FF;fillColor=#CCFF99;" vertex="1" parent="lhM6CGJn772H5iblu0Oy-1">
+          <mxGeometry x="400" y="230" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="pD75wT1rnBEX5pPgh3ki-1" value="星图web" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;strokeColor=#CCE5FF;fillColor=#CCFF99;" vertex="1" parent="lhM6CGJn772H5iblu0Oy-1">
+          <mxGeometry x="80" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pD75wT1rnBEX5pPgh3ki-2" value="后台原子接口" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;strokeColor=#CCE5FF;fillColor=#CCFF99;" vertex="1" parent="lhM6CGJn772H5iblu0Oy-1">
+          <mxGeometry x="10" y="290" width="260" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
