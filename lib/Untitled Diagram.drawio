@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T09:54:01.942Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="OkKWr2IO-Sxl5m5UNEZW" version="15.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-10-14T09:57:33.397Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="rwV_vWwncEnlSAVIX-kx" version="15.1.2" type="github" pages="6">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1038" dy="578" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -369,8 +369,8 @@
         <mxCell id="pD75wT1rnBEX5pPgh3ki-1" value="node-red web" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;strokeColor=#CCE5FF;fillColor=#CCFF99;" vertex="1" parent="lhM6CGJn772H5iblu0Oy-1">
           <mxGeometry x="270" y="30" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pD75wT1rnBEX5pPgh3ki-2" value="后台原子服务" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;strokeColor=#CCE5FF;fillColor=#CCFF99;" vertex="1" parent="lhM6CGJn772H5iblu0Oy-1">
-          <mxGeometry x="334" y="345" width="80" height="80" as="geometry" />
+        <mxCell id="pD75wT1rnBEX5pPgh3ki-2" value="数据鉴权&lt;br&gt;数据维度鉴权&lt;br&gt;数据范围鉴权" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;strokeColor=#CCE5FF;fillColor=#CCFF99;" vertex="1" parent="lhM6CGJn772H5iblu0Oy-1">
+          <mxGeometry x="334" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pD75wT1rnBEX5pPgh3ki-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="lhM6CGJn772H5iblu0Oy-1" source="pD75wT1rnBEX5pPgh3ki-3" target="pD75wT1rnBEX5pPgh3ki-4">
           <mxGeometry relative="1" as="geometry" />
@@ -390,8 +390,11 @@
         <mxCell id="pD75wT1rnBEX5pPgh3ki-11" value="邮件/企业微信服务" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;strokeColor=#CCE5FF;fillColor=#CCFF99;" vertex="1" parent="lhM6CGJn772H5iblu0Oy-1">
           <mxGeometry x="110" y="350" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pD75wT1rnBEX5pPgh3ki-13" value="kong&amp;nbsp;登录鉴权" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;strokeColor=#CCE5FF;fillColor=#CCFF99;" vertex="1" parent="lhM6CGJn772H5iblu0Oy-1">
-          <mxGeometry x="460" y="150" width="80" height="80" as="geometry" />
+        <mxCell id="pD75wT1rnBEX5pPgh3ki-13" value="kong&amp;nbsp;&lt;br&gt;登录鉴权&lt;br&gt;路径鉴权" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;strokeColor=#CCE5FF;fillColor=#CCFF99;" vertex="1" parent="lhM6CGJn772H5iblu0Oy-1">
+          <mxGeometry x="400" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pD75wT1rnBEX5pPgh3ki-14" value="后台原子服务" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;strokeColor=#CCE5FF;fillColor=#CCFF99;" vertex="1" parent="lhM6CGJn772H5iblu0Oy-1">
+          <mxGeometry x="440" y="340" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
